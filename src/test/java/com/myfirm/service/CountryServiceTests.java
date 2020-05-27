@@ -12,7 +12,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
-import com.mifirm.model.Country;
+
+import com.myfirm.model.Country;
 
 public class CountryServiceTests {
 	
